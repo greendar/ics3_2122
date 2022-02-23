@@ -53,6 +53,32 @@ variable = input('Message')
 print("Hello World!")
 ```
 
+
+### While Loop
+*Sentry:*  Variable that will control the loop.
+
+
+*Initialization Code:*  Code that initializes the sentry.
+
+*Condition:*  Loop repeats if condition is true.
+
+*Change Code:* Code to change sentry so condition can be triggered.
+
+`Algorithm`    Initialize **Sentry** with **Initialization Code** then continue loop as long as **Condition** is true. Inside loop change sentry with **Change Code**.
+
+*Code*
+```Python
+initializationCode
+while(condition):
+  changeCode
+```
+*Example*
+```Python
+count = 0
+while count < 10:
+  print(count)
+  count += 1
+```
 ## Loops
 - **FOR Loop**
 - **WHILE Loop**
