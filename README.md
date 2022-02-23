@@ -3,10 +3,11 @@
 
 ## Data Types
 
-- **String**
-- **Integer**
-- **Float**
-- **Boolean**
+- **String** an array of bytes that contains unicode characters
+
+- **Integer** a whole number, positive or negative, without decimals
+- **Float** a real number written with a decimal point dividing the integer and fractional parts
+- **Boolean** has only two possible values, True or False
 
 ## Computer Science Concepts
 
