@@ -9,7 +9,7 @@ Pick a topic in which a collector can build up a number of items (ie Movies, Boo
 - Store this information in a list.
 - Store this list in another list called inventory.
 - have a way of printing out one of the items (including the result of the calculation)
-- write a menu that allows for users to enter an item, print all items or exit the program
+- write a menu that allows for users to enter an item, print an item or exit the program
 
 ## Turn in Instructions ##
 Name your project as follows
