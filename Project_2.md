@@ -1,6 +1,6 @@
 # Project 2 #
 
-Create a library that has a function called **product** that will read a file called numbers.txt, multiply the numbers and return their product.
+Create a library that has a function called **product** that will read a file called **numbers.txt**, multiply the numbers and return their product.
 
 There will be three numbers.
 
