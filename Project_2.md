@@ -23,7 +23,7 @@ The program I will use to check your answer is
 ```Python
 from greenProj2 import products
 
-product('numbers.txt')
+product('numbers.txt') # three numbers
 
-product('numbers2.txt')
+product('numbers2.txt') # unknown number of numbers
 ```
