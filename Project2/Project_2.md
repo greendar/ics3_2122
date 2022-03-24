@@ -29,6 +29,9 @@ product('numbers2.txt') # unknown number of numbers
 ```
 
 ### Included Files ###
-numbers.txt
 
-numbers2.txt
+
+| File      | Output |
+| --- | :----: |
+| **numbers.txt**    | **31671**       |
+| **numbers2.txt**   | **3277260**        |
