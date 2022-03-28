@@ -23,9 +23,9 @@ The program I will use to check your answer is
 ```Python
 from greenProj2 import products
 
-product('numbers.txt') # three numbers
+print(product('numbers.txt'))
 
-product('numbers2.txt') # unknown number of numbers
+print(product('numbers2.txt'))
 ```
 
 ### Included Files ###
