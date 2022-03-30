@@ -21,7 +21,7 @@ Create your function so that if there is an unknown quantity of numbers in the f
 The program I will use to check your answer is
 
 ```Python
-from greenProj2 import products
+from greenProj2 import product
 
 print(product('numbers.txt'))
 
