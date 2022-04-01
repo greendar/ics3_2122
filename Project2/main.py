@@ -1,4 +1,4 @@
-from greenProj2 import products  # change greenProj2 to match the name of your file
+from greenProj2 import product  # change greenProj2 to match the name of your file
 
 product('numbers.txt') # three numbers
 
